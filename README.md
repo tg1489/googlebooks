@@ -1,6 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # Google Books
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The MERN Book Search Engine is a web application that allows avid readers to search for new books to read and keep a list of books to purchase. The application was originally built with a RESTful API but has been refactored to use GraphQL API with Apollo Server to improve performance and better handle user data.
 
